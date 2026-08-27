@@ -1,8 +1,16 @@
-# Hadal
+<div align="center">
+
+# Hadal 
 
 A deep-sea inspired theme for [Zed](https://zed.dev), available in both dark and light variants.
 
-![Hadal Dark](assets/Hadal_Dark.png)
+| Hadal Dark | Hadal Light |
+|------------|-------------|
+|![Hadal Dark](assets/Hadal_Dark.png)|![Hadal Light](assets/Hadal_Light.png)|
+  
+![extension installation counts](https://zedbadge.dev/extension/hadal-theme.svg)
+
+</div>
 
 ## Features
 
