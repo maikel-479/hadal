@@ -14,8 +14,8 @@ A deep-sea inspired theme for [Zed](https://zed.dev), available in both dark and
 
 ## Features
 
-- **Both appearances** — 176 style keys each, full parity between dark and light
-- **101 syntax captures** — comprehensive coverage of all syntax elements
+- **Both appearances** — 187 style keys each, full parity between dark and light
+- **105 syntax captures** — comprehensive coverage of all syntax elements
 - **16 terminal ANSI colors** — plus bright and dim variants for the integrated terminal
 - **8 player colors** — for collaboration cursors
 - **Vim mode support** — complete color definitions for all vim modes
