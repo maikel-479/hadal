@@ -3,5 +3,5 @@ name = "Hadal Theme"
 version = "0.3.0"
 schema_version = 1
 authors = ["maikel"]
-description = "A deep-sea inspired theme set for Zed with two dark variants, Hadal Deep and Hadal Midnight, 105 syntax captures, and full terminal support."
+description = "A deep-sea inspired theme set for Zed with three dark variants, Hadal Deep, Hadal Twilight, and Hadal Midnight, 105 syntax captures, and full terminal support."
 repository = "https://github.com/maikel-479/hadal"
