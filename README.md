@@ -2,11 +2,11 @@
 
 # Hadal 
 
-A deep-sea inspired theme for [Zed](https://zed.dev), available in both dark and light variants.
+A deep-sea inspired theme set for [Zed](https://zed.dev), currently with two dark variants: Hadal Deep and Hadal Midnight.
 
-| Hadal Dark | Hadal Light |
-|------------|-------------|
-|![Hadal Dark](assets/Hadal_Dark.png)|![Hadal Light](assets/Hadal_Light.png)|
+| Hadal Deep | Hadal Midnight |
+|------------|----------------|
+|![Hadal Deep](assets/Hadal_Deep.png)|*Screenshot coming — capture with the dev extension and save as `assets/Hadal_Midnight.png`*|
   
 ![extension installation counts](https://zedbadge.dev/extension/hadal-theme.svg)
 
@@ -14,7 +14,7 @@ A deep-sea inspired theme for [Zed](https://zed.dev), available in both dark and
 
 ## Features
 
-- **Both appearances** — 187 style keys each, full parity between dark and light
+- **Two dark variants** — Hadal Deep and Hadal Midnight, 187 style keys each with full parity
 - **105 syntax captures** — comprehensive coverage of all syntax elements
 - **16 terminal ANSI colors** — plus bright and dim variants for the integrated terminal
 - **8 player colors** — for collaboration cursors
@@ -38,30 +38,26 @@ git clone https://github.com/maikel-479/hadal.git
 
 1. In Zed: `Cmd` `Shift` `P` → **zed: install dev extension**
 2. Select the cloned directory
-3. `Cmd` `Shift` `P` → **theme selector: toggle** → pick **Hadal Dark**
+3. `Cmd` `Shift` `P` → **theme selector: toggle** → pick **Hadal Deep**
 
 ## Switching
 
 `Cmd` `K` `Cmd` `T` opens the theme selector, or `Cmd` `Shift` `P` →
 **theme selector: toggle**.
 
-To pin it, or to follow your system appearance, edit `settings.json`:
+To pin a variant, edit `settings.json`:
 
 ```json
 {
-  "theme": {
-    "mode": "system",
-    "light": "Hadal Light",
-    "dark": "Hadal Dark"
-  }
+  "theme": "Hadal Deep"
 }
 ```
 
-Or set one and be done:
+Or set Midnight instead:
 
 ```json
 {
-  "theme": "Hadal Dark"
+  "theme": "Hadal Midnight"
 }
 ```
 
