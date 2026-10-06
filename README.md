@@ -2,11 +2,11 @@
 
 # Hadal 
 
-A deep-sea inspired theme set for [Zed](https://zed.dev), following light down through the ocean zones: Hadal Deep, Hadal Twilight, and Hadal Midnight.
+A deep-sea inspired theme set for [Zed](https://zed.dev), following light down through the ocean zones: Hadal Shallows, Hadal Deep, Hadal Twilight, and Hadal Midnight.
 
-| Hadal Deep | Hadal Twilight | Hadal Midnight |
-|------------|----------------|----------------|
-|![Hadal Deep](assets/Hadal_Deep.png)|*Screenshot coming — capture with the dev extension and save as `assets/Hadal_Twilight.png`*|*Screenshot coming — capture with the dev extension and save as `assets/Hadal_Midnight.png`*|
+| Hadal Shallows | Hadal Deep | Hadal Twilight | Hadal Midnight |
+|------------|------------|------------|------------|
+|![Hadal Shallows](assets/Hadal_Shallows.png)|![Hadal Deep](assets/Hadal_Deep.png)|![Hadal Twilight](assets/Hadal_Twilight.png)|![Hadal Midnight](assets/Hadal_Midnight.png)|
   
 ![extension installation counts](https://zedbadge.dev/extension/hadal-theme.svg)
 
@@ -14,7 +14,7 @@ A deep-sea inspired theme set for [Zed](https://zed.dev), following light down t
 
 ## Features
 
-- **Three dark variants** — Hadal Deep, Hadal Twilight, and Hadal Midnight, 187 style keys each with full parity
+- **Four variants** — Hadal Shallows, Deep, Twilight, and Midnight, 187 style keys each with full parity
 - **Twilight depth-filtering** — warm hues dim with depth while blues stay vivid, after how water absorbs light
 - **105 syntax captures** — comprehensive coverage of all syntax elements
 - **16 terminal ANSI colors** — plus bright and dim variants for the integrated terminal
